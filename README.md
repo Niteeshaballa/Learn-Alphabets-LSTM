@@ -14,4 +14,5 @@ An LSTM learning alphabets with a feature size and 1 time step and achieved an a
 An LSTM learning alphabets with some time steps and 1 feature step and achieved an accuracy of 100%.
 
 5. Var length input to one char -- 
-An LSTM learning alphabet sequences with variable length and outputs one character and achieved an accuracy of 
+An LSTM learning alphabet sequences with variable length and outputs one character and achieved an accuracy of 97.50%.
+It takes a long time to train on CPU. The model weights ("model500epochs.h5") and the model structure("model.json") are also uploaded.
